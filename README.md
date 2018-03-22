@@ -1,2 +1,2 @@
-# CS112-Imp.-Assignments
+#Important Solutions of Basic C.
 All in C,hopefully will be helpful.
